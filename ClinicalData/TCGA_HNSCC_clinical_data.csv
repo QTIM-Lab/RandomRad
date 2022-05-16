@@ -1,0 +1,116 @@
+Patient ID,Sample ID,Mutation Count,Fraction Genome Altered,Diagnosis Age,MSI MANTIS Score,MSIsensor Score,Overall Survival Status,Sex,Ethnicity Category,Race Category,Subtype,Tumor Type,10p Status,10q Status,11p Status,11q Status,12p Status,Neoplasm Histologic Grade,Overall Survival (Months)
+TCGA-BA-4074,TCGA-BA-4074-01,128,0.3538,69,0.2807,0.28,1:DECEASED,Male,Not Hispanic Or Latino,White,HNSC_HPV-,Head and Neck Squamous Cell Carcinoma,Not Called,Lost,Not Called,Lost,Not Called,G3,15.18887464
+TCGA-BA-4076,TCGA-BA-4076-01,293,0.3845,39,0.3007,1.17,1:DECEASED,Male,Not Hispanic Or Latino,White,HNSC_HPV-,Head and Neck Squamous Cell Carcinoma,,Not Called,Not Called,Lost,Not Called,G2,13.6436861
+TCGA-BA-5149,TCGA-BA-5149-01,109,0.3454,47,0.2792,0.25,1:DECEASED,Male,Not Hispanic Or Latino,White,HNSC_HPV-,Head and Neck Squamous Cell Carcinoma,Not Called,Not Called,Not Called,Lost,Lost,G2,26.49833974
+TCGA-BA-5151,TCGA-BA-5151-01,67,0.1237,72,0.2694,0.05,0:LIVING,Male,Not Hispanic Or Latino,White,HNSC_HPV-,Head and Neck Squamous Cell Carcinoma,Gained,Gained,Not Called,Not Called,Not Called,G1,23.73672617
+TCGA-BA-5555,TCGA-BA-5555-01,129,0.5479,54,0.2993,0.45,0:LIVING,Male,Not Hispanic Or Latino,Black or African American,HNSC_HPV-,Head and Neck Squamous Cell Carcinoma,Gained,Lost,,,Gained,G2,17.09570306
+TCGA-BA-5558,TCGA-BA-5558-01,126,0.2506,65,0.2696,0,0:LIVING,Male,Not Hispanic Or Latino,White,HNSC_HPV-,Head and Neck Squamous Cell Carcinoma,Not Called,Not Called,Not Called,Gained,Not Called,G1,65.58832232
+TCGA-BA-5559,TCGA-BA-5559-01,65,0.2983,71,0.2882,0.39,1:DECEASED,Male,Not Hispanic Or Latino,White,HNSC_HPV+,Head and Neck Squamous Cell Carcinoma,Not Called,Not Called,Not Called,,Gained,G3,68.4814413
+TCGA-BA-6868,TCGA-BA-6868-01,140,0.3255,53,0.3236,0.39,1:DECEASED,Male,Not Hispanic Or Latino,Black or African American,HNSC_HPV-,Head and Neck Squamous Cell Carcinoma,Lost,,,Lost,,G2,15.51763816
+TCGA-BA-6870,TCGA-BA-6870-01,83,0.3398,60,0.3137,0,1:DECEASED,Female,Not Hispanic Or Latino,Black or African American,HNSC_HPV-,Head and Neck Squamous Cell Carcinoma,Lost,,Lost,,,G2,14.82723477
+TCGA-BA-6872,TCGA-BA-6872-01,159,0.374,47,0.3184,0.01,1:DECEASED,Male,Not Hispanic Or Latino,White,HNSC_HPV-,Head and Neck Squamous Cell Carcinoma,Not Called,,Lost,Lost,Lost,G2,12.62451918
+TCGA-BA-6873,TCGA-BA-6873-01,58,0.1428,28,0.3217,0,0:LIVING,Male,Hispanic Or Latino,White,HNSC_HPV-,Head and Neck Squamous Cell Carcinoma,Lost,Not Called,,Lost,,G2,4.010914949
+TCGA-BA-A4IF,TCGA-BA-A4IF-01,90,0.2665,59,0.3301,0.02,0:LIVING,Male,Not Hispanic Or Latino,White,HNSC_HPV+,Head and Neck Squamous Cell Carcinoma,Not Called,Gained,Not Called,Not Called,Gained,G2,29.42433508
+TCGA-BA-A4II,TCGA-BA-A4II-01,91,0.1109,46,0.3183,0,0:LIVING,Male,Not Hispanic Or Latino,White,HNSC_HPV-,Head and Neck Squamous Cell Carcinoma,,Not Called,Lost,Lost,Not Called,G1,30.18049117
+TCGA-BB-4223,TCGA-BB-4223-01,179,0.2909,48,0.2699,0,0:LIVING,Male,Not Hispanic Or Latino,White,HNSC_HPV+,Head and Neck Squamous Cell Carcinoma,Not Called,Not Called,Not Called,,Gained,G3,105.8947299
+TCGA-BB-4224,TCGA-BB-4224-01,73,0.4213,52,0.2926,0.66,0:LIVING,Male,Not Hispanic Or Latino,White,HNSC_HPV-,Head and Neck Squamous Cell Carcinoma,Not Called,Not Called,Not Called,Not Called,Gained,G2,9.139625867
+TCGA-BB-4227,TCGA-BB-4227-01,203,0.3874,66,0.3254,0.46,0:LIVING,Male,Not Hispanic Or Latino,White,HNSC_HPV-,Head and Neck Squamous Cell Carcinoma,Not Called,Not Called,,,Not Called,G2,4.405431173
+TCGA-BB-7863,TCGA-BB-7863-01,,0.1056,43,,,0:LIVING,Female,Hispanic Or Latino,White,,Head and Neck Squamous Cell Carcinoma,Not Called,Not Called,Not Called,Not Called,Not Called,G2,33.69826084
+TCGA-BB-7864,TCGA-BB-7864-01,,0.2114,61,,,0:LIVING,Male,Not Hispanic Or Latino,White,,Head and Neck Squamous Cell Carcinoma,Not Called,Not Called,Not Called,Not Called,Not Called,G2,50.20218957
+TCGA-BB-7870,TCGA-BB-7870-01,257,0.2445,58,0.3072,0.21,0:LIVING,Male,Not Hispanic Or Latino,White,HNSC_HPV-,Head and Neck Squamous Cell Carcinoma,,,Lost,Lost,Not Called,G3,66.27872571
+TCGA-BB-7871,TCGA-BB-7871-01,,0.367,64,,,0:LIVING,Female,Not Hispanic Or Latino,White,,Head and Neck Squamous Cell Carcinoma,,Not Called,Not Called,,Not Called,G2,24.65726403
+TCGA-BB-7872,TCGA-BB-7872-01,,0.241,63,,,0:LIVING,Male,Not Hispanic Or Latino,Asian,,Head and Neck Squamous Cell Carcinoma,,Not Called,Not Called,Not Called,Not Called,G3,38.39957918
+TCGA-BB-A5HZ,TCGA-BB-A5HZ-01,59,0.1401,65,0.3049,0,0:LIVING,Male,Not Hispanic Or Latino,White,HNSC_HPV-,Head and Neck Squamous Cell Carcinoma,Gained,Gained,Not Called,Lost,Not Called,G2,27.18874314
+TCGA-CN-4733,TCGA-CN-4733-01,22,0,61,0.3045,0,0:LIVING,Male,Not Hispanic Or Latino,White,HNSC_HPV-,Head and Neck Squamous Cell Carcinoma,Not Called,Not Called,Not Called,Not Called,Not Called,G3,52.14189434
+TCGA-CN-4735,TCGA-CN-4735-01,122,0.2864,52,0.2789,0.27,0:LIVING,Male,Not Hispanic Or Latino,White,HNSC_HPV-,Head and Neck Squamous Cell Carcinoma,Not Called,Not Called,,Lost,Not Called,G3,57.10622349
+TCGA-CN-4742,TCGA-CN-4742-01,65,0.2166,48,0.2779,0.02,1:DECEASED,Female,Not Hispanic Or Latino,White,HNSC_HPV-,Head and Neck Squamous Cell Carcinoma,Not Called,Not Called,Gained,Gained,Not Called,G3,13.05191176
+TCGA-CN-5370,TCGA-CN-5370-01,100,0.1292,78,0.2992,0,1:DECEASED,Male,Not Hispanic Or Latino,White,HNSC_HPV-,Head and Neck Squamous Cell Carcinoma,Not Called,Not Called,Not Called,,Not Called,G3,8.514975178
+TCGA-CN-A49A,TCGA-CN-A49A-01,104,0.4892,60,0.33,0,1:DECEASED,Male,Not Hispanic Or Latino,White,HNSC_HPV+,Head and Neck Squamous Cell Carcinoma,,Lost,Not Called,Lost,Gained,G2,17.29296117
+TCGA-CR-5243,TCGA-CR-5243-01,56,0.247,51,0.2844,0.25,0:LIVING,Male,Not Hispanic Or Latino,White,HNSC_HPV+,Head and Neck Squamous Cell Carcinoma,Not Called,Not Called,,,Gained,G3,84.22921393
+TCGA-CR-5247,TCGA-CR-5247-01,67,0.5693,48,0.3198,0.23,0:LIVING,Male,Not Hispanic Or Latino,Black or African American,HNSC_HPV-,Head and Neck Squamous Cell Carcinoma,Gained,Not Called,Lost,,Gained,G2,11.76973403
+TCGA-CR-5248,TCGA-CR-5248-01,323,0.2291,53,0.3436,0.49,0:LIVING,Male,Not Hispanic Or Latino,White,HNSC_HPV+,Head and Neck Squamous Cell Carcinoma,Not Called,Not Called,Lost,,Not Called,G3,54.67337344
+TCGA-CR-5250,TCGA-CR-5250-01,32,0.0634,71,0.3195,0.03,0:LIVING,Male,Not Hispanic Or Latino,White,HNSC_HPV+,Head and Neck Squamous Cell Carcinoma,Not Called,Not Called,Not Called,,Not Called,G3,26.26820528
+TCGA-CR-6467,TCGA-CR-6467-01,34,0.451,59,0.3297,0.07,0:LIVING,Male,Not Hispanic Or Latino,White,HNSC_HPV+,Head and Neck Squamous Cell Carcinoma,Not Called,Not Called,Not Called,,Gained,G3,58.42127758
+TCGA-CR-6471,TCGA-CR-6471-01,113,0.1235,58,0.3142,2.82,1:DECEASED,Male,Not Hispanic Or Latino,White,HNSC_HPV+,Head and Neck Squamous Cell Carcinoma,Not Called,Not Called,Not Called,Not Called,Not Called,G2,39.51737515
+TCGA-CR-6472,TCGA-CR-6472-01,422,0.3447,59,0.3049,0.12,0:LIVING,Male,Not Hispanic Or Latino,White,HNSC_HPV+,Head and Neck Squamous Cell Carcinoma,Not Called,Not Called,,,Not Called,G3,34.52016964
+TCGA-CR-6473,TCGA-CR-6473-01,87,0.3095,68,0.3234,2.2,0:LIVING,Male,Not Hispanic Or Latino,White,HNSC_HPV+,Head and Neck Squamous Cell Carcinoma,Not Called,Not Called,Not Called,,Not Called,G3,36.98589605
+TCGA-CR-6477,TCGA-CR-6477-01,73,0.2852,56,0.3171,0,0:LIVING,Female,Not Hispanic Or Latino,White,HNSC_HPV-,Head and Neck Squamous Cell Carcinoma,Not Called,Lost,Lost,Lost,Gained,G2,16.89844495
+TCGA-CR-6480,TCGA-CR-6480-01,88,0.1315,53,0.3127,0,0:LIVING,Male,Not Hispanic Or Latino,White,HNSC_HPV+,Head and Neck Squamous Cell Carcinoma,Not Called,Not Called,Not Called,,Not Called,G2,11.90123944
+TCGA-CR-6481,TCGA-CR-6481-01,430,0.0501,47,0.3163,4.67,0:LIVING,Male,Not Hispanic Or Latino,White,HNSC_HPV+,Head and Neck Squamous Cell Carcinoma,Not Called,Not Called,Lost,Lost,Not Called,G2,10.22454548
+TCGA-CR-6482,TCGA-CR-6482-01,35,0.1223,62,0.3195,0.03,0:LIVING,Male,Not Hispanic Or Latino,Black or African American,HNSC_HPV+,Head and Neck Squamous Cell Carcinoma,Not Called,Not Called,Not Called,,Not Called,G3,11.34234145
+TCGA-CR-6484,TCGA-CR-6484-01,226,0.1514,67,0.3184,0.01,0:LIVING,Female,Not Hispanic Or Latino,Asian,HNSC_HPV-,Head and Neck Squamous Cell Carcinoma,Lost,Lost,,Lost,Lost,G2,11.63822862
+TCGA-CR-6487,TCGA-CR-6487-01,119,0.2285,50,0.3158,0,0:LIVING,Male,Not Hispanic Or Latino,White,HNSC_HPV+,Head and Neck Squamous Cell Carcinoma,Not Called,Not Called,Not Called,Lost,Gained,G3,7.693066377
+TCGA-CR-6492,TCGA-CR-6492-01,51,0.0001,78,0.3126,0,0:LIVING,Male,Not Hispanic Or Latino,White,HNSC_HPV-,Head and Neck Squamous Cell Carcinoma,,,,,,G3,15.74777263
+TCGA-CR-6493,TCGA-CR-6493-01,34,0.2889,69,0.3309,0.24,1:DECEASED,Male,Not Hispanic Or Latino,Black or African American,HNSC_HPV-,Head and Neck Squamous Cell Carcinoma,Not Called,Not Called,Not Called,,Not Called,G2,9.271131275
+TCGA-CR-7364,TCGA-CR-7364-01,419,0.2932,66,0.305,0,0:LIVING,Male,Not Hispanic Or Latino,White,HNSC_HPV-,Head and Neck Squamous Cell Carcinoma,Not Called,Not Called,Not Called,Not Called,Gained,G2,47.17756518
+TCGA-CR-7365,TCGA-CR-7365-01,147,0.2677,60,0.3138,0.06,0:LIVING,Male,Not Hispanic Or Latino,White,HNSC_HPV-,Head and Neck Squamous Cell Carcinoma,Lost,Lost,Not Called,Not Called,Not Called,G2,39.15573528
+TCGA-CR-7367,TCGA-CR-7367-01,157,0.2035,52,0.3151,0.01,0:LIVING,Male,Not Hispanic Or Latino,White,HNSC_HPV-,Head and Neck Squamous Cell Carcinoma,,Not Called,Gained,Gained,Not Called,G1,47.34194694
+TCGA-CR-7368,TCGA-CR-7368-01,190,0.2544,54,0.3078,0,0:LIVING,Male,Not Hispanic Or Latino,White,HNSC_HPV+,Head and Neck Squamous Cell Carcinoma,Not Called,Not Called,Not Called,Not Called,Not Called,G2,40.93105829
+TCGA-CR-7369,TCGA-CR-7369-01,66,0.2924,59,0.3068,0,1:DECEASED,Male,Not Hispanic Or Latino,White,HNSC_HPV+,Head and Neck Squamous Cell Carcinoma,Lost,Lost,Not Called,Lost,Not Called,G2,35.83522372
+TCGA-CR-7370,TCGA-CR-7370-01,468,0.6178,72,0.3111,0.34,0:LIVING,Female,Not Hispanic Or Latino,White,HNSC_HPV-,Head and Neck Squamous Cell Carcinoma,Lost,Lost,Gained,,Not Called,G2,3.452016964
+TCGA-CR-7371,TCGA-CR-7371-01,289,0.1991,45,0.2979,0,1:DECEASED,Female,Not Hispanic Or Latino,White,HNSC_HPV-,Head and Neck Squamous Cell Carcinoma,,Not Called,Not Called,,Not Called,G2,3.090377092
+TCGA-CR-7372,TCGA-CR-7372-01,44,0.1459,45,0.2996,0.01,0:LIVING,Male,Not Hispanic Or Latino,White,HNSC_HPV-,Head and Neck Squamous Cell Carcinoma,Lost,Lost,Not Called,Not Called,Gained,G1,24.9531512
+TCGA-CR-7373,TCGA-CR-7373-01,98,0.1516,66,0.3063,0.04,0:LIVING,Male,Not Hispanic Or Latino,White,HNSC_HPV-,Head and Neck Squamous Cell Carcinoma,Lost,Lost,Not Called,Not Called,Not Called,G2,29.22707696
+TCGA-CR-7377,TCGA-CR-7377-01,103,0.0092,58,0.3096,0,1:DECEASED,Male,Not Hispanic Or Latino,White,HNSC_HPV-,Head and Neck Squamous Cell Carcinoma,,Not Called,Not Called,Lost,Not Called,G3,9.172502219
+TCGA-CR-7379,TCGA-CR-7379-01,120,0.1619,78,0.3019,0.03,0:LIVING,Female,Not Hispanic Or Latino,White,HNSC_HPV-,Head and Neck Squamous Cell Carcinoma,Not Called,Not Called,Gained,,Gained,G2,34.05990071
+TCGA-CR-7380,TCGA-CR-7380-01,85,0.2324,58,0.315,0.04,1:DECEASED,Male,Not Hispanic Or Latino,White,HNSC_HPV-,Head and Neck Squamous Cell Carcinoma,Not Called,Not Called,Not Called,Lost,Not Called,G2,19.92306934
+TCGA-CR-7382,TCGA-CR-7382-01,78,0.0377,49,0.2887,0,0:LIVING,Male,Not Hispanic Or Latino,White,HNSC_HPV-,Head and Neck Squamous Cell Carcinoma,Not Called,Not Called,Gained,Not Called,Not Called,G2,26.16957622
+TCGA-CR-7383,TCGA-CR-7383-01,104,0.3844,79,0.3368,0.04,1:DECEASED,Female,Not Hispanic Or Latino,White,HNSC_HPV-,Head and Neck Squamous Cell Carcinoma,Lost,Lost,,Lost,Gained,G2,17.12857941
+TCGA-CR-7385,TCGA-CR-7385-01,118,0.131,42,0.304,0,0:LIVING,Male,Not Hispanic Or Latino,White,HNSC_HPV+,Head and Neck Squamous Cell Carcinoma,Not Called,Not Called,Lost,,Not Called,G2,32.77772298
+TCGA-CR-7386,TCGA-CR-7386-01,158,0.0991,69,0.3001,0,0:LIVING,Male,Not Hispanic Or Latino,White,HNSC_HPV-,Head and Neck Squamous Cell Carcinoma,Not Called,Not Called,Not Called,Not Called,Not Called,G1,47.01318342
+TCGA-CR-7388,TCGA-CR-7388-01,702,0.1637,70,0.307,0,1:DECEASED,Female,Not Hispanic Or Latino,White,HNSC_HPV-,Head and Neck Squamous Cell Carcinoma,Not Called,,Lost,,Not Called,G2,27.05723773
+TCGA-CR-7389,TCGA-CR-7389-01,109,0.1658,55,0.2962,0.04,0:LIVING,Male,Not Hispanic Or Latino,Black or African American,HNSC_HPV-,Head and Neck Squamous Cell Carcinoma,Lost,Lost,Lost,Lost,Lost,G2,12.88753
+TCGA-CR-7390,TCGA-CR-7390-01,143,0.3645,67,0.3068,0,0:LIVING,Male,Not Hispanic Or Latino,White,HNSC_HPV-,Head and Neck Squamous Cell Carcinoma,Not Called,Gained,Not Called,,Gained,G2,49.57753888
+TCGA-CR-7391,TCGA-CR-7391-01,28,0.0001,36,0.2942,0,0:LIVING,Female,Not Hispanic Or Latino,White,HNSC_HPV-,Head and Neck Squamous Cell Carcinoma,,,,,,G1,30.01610941
+TCGA-CR-7392,TCGA-CR-7392-01,23,0.0238,67,0.2984,0,0:LIVING,Female,Not Hispanic Or Latino,White,HNSC_HPV-,Head and Neck Squamous Cell Carcinoma,Not Called,Not Called,,Not Called,Not Called,G1,46.84880166
+TCGA-CR-7393,TCGA-CR-7393-01,,0,26,0.2883,0,0:LIVING,Male,Not Hispanic Or Latino,White,,Head and Neck Squamous Cell Carcinoma,Not Called,Not Called,Not Called,Not Called,Not Called,G2,32.64621758
+TCGA-CR-7395,TCGA-CR-7395-01,143,0.0136,80,0.2926,0,0:LIVING,Female,Not Hispanic Or Latino,White,HNSC_HPV-,Head and Neck Squamous Cell Carcinoma,Not Called,Not Called,Not Called,Not Called,Not Called,G2,30.5750074
+TCGA-CR-7397,TCGA-CR-7397-01,34,0.0552,44,0.3069,0,0:LIVING,Male,Not Hispanic Or Latino,White,HNSC_HPV-,Head and Neck Squamous Cell Carcinoma,Lost,Lost,Lost,Lost,Gained,G2,24.78876944
+TCGA-CR-7398,TCGA-CR-7398-01,345,0.4782,53,0.3021,0.3,0:LIVING,Female,Not Hispanic Or Latino,White,HNSC_HPV-,Head and Neck Squamous Cell Carcinoma,Not Called,Not Called,Not Called,Not Called,Gained,G2,5.128710918
+TCGA-CR-7399,TCGA-CR-7399-01,287,0.5968,60,0.2919,0,0:LIVING,Female,Not Hispanic Or Latino,White,HNSC_HPV-,Head and Neck Squamous Cell Carcinoma,Gained,Not Called,Lost,Lost,Gained,G3,5.950619719
+TCGA-CV-5440,TCGA-CV-5440-01,101,0.6986,52,0.3074,0.36,0:LIVING,Male,Not Hispanic Or Latino,White,HNSC_HPV-,Head and Neck Squamous Cell Carcinoma,Not Called,Not Called,Gained,Lost,Gained,G3,107.5056712
+TCGA-CV-5441,TCGA-CV-5441-01,336,0.2079,58,0.2872,0.26,0:LIVING,Male,Not Hispanic Or Latino,White,HNSC_HPV-,Head and Neck Squamous Cell Carcinoma,Not Called,Not Called,,Lost,Not Called,G3,94.88115199
+TCGA-CV-5444,TCGA-CV-5444-01,110,0.346,64,0.2749,0.05,0:LIVING,Male,Not Hispanic Or Latino,Black or African American,HNSC_HPV-,Head and Neck Squamous Cell Carcinoma,Lost,Not Called,Gained,Gained,Not Called,G3,80.11966992
+TCGA-CV-5966,TCGA-CV-5966-01,100,0.2279,63,0.3223,0,1:DECEASED,Female,Not Hispanic Or Latino,White,HNSC_HPV-,Head and Neck Squamous Cell Carcinoma,Lost,Gained,Not Called,Not Called,Not Called,G3,17.91761186
+TCGA-CV-5970,TCGA-CV-5970-01,166,0.2467,59,0.3293,0.05,1:DECEASED,Male,Hispanic Or Latino,White,HNSC_HPV+,Head and Neck Squamous Cell Carcinoma,Not Called,Not Called,,Lost,Not Called,G2,13.34779893
+TCGA-CV-5973,TCGA-CV-5973-01,47,0.5004,62,0.2982,0.41,0:LIVING,Female,Not Hispanic Or Latino,White,HNSC_HPV-,Head and Neck Squamous Cell Carcinoma,,,Not Called,,,G3,86.82644574
+TCGA-CV-5976,TCGA-CV-5976-01,65,0.2357,50,0.2976,0.02,0:LIVING,Male,Not Hispanic Or Latino,White,HNSC_HPV-,Head and Neck Squamous Cell Carcinoma,Not Called,Not Called,Not Called,,Not Called,G2,48.59124832
+TCGA-CV-5977,TCGA-CV-5977-01,68,0.3094,66,0.3056,0.11,0:LIVING,Male,Not Hispanic Or Latino,White,HNSC_HPV-,Head and Neck Squamous Cell Carcinoma,Lost,Lost,Not Called,Lost,Lost,G2,60.49248775
+TCGA-CV-5978,TCGA-CV-5978-01,159,0.348,53,0.3073,0,1:DECEASED,Female,Not Hispanic Or Latino,Black or African American,HNSC_HPV-,Head and Neck Squamous Cell Carcinoma,Not Called,,Lost,Gained,Gained,G2,7.068415689
+TCGA-CV-5979,TCGA-CV-5979-01,30,0.2397,26,0.3002,0.02,0:LIVING,Male,Not Hispanic Or Latino,White,HNSC_HPV-,Head and Neck Squamous Cell Carcinoma,,Not Called,Not Called,,Not Called,G2,43.23240293
+TCGA-CV-6433,TCGA-CV-6433-01,46,0.2456,57,0.2858,0,0:LIVING,Male,Not Hispanic Or Latino,White,HNSC_HPV+,Head and Neck Squamous Cell Carcinoma,Not Called,Not Called,Gained,Lost,Not Called,G3,21.07374166
+TCGA-CV-6436,TCGA-CV-6436-01,67,0.0485,62,0.2945,0,0:LIVING,Male,Not Hispanic Or Latino,White,HNSC_HPV-,Head and Neck Squamous Cell Carcinoma,Not Called,Not Called,Not Called,Not Called,Not Called,G1,62.43219252
+TCGA-CV-7235,TCGA-CV-7235-01,120,0.525,67,0.3066,0.15,0:LIVING,Male,Not Hispanic Or Latino,White,HNSC_HPV-,Head and Neck Squamous Cell Carcinoma,,Not Called,Lost,Lost,Lost,G3,77.16079824
+TCGA-CV-7242,TCGA-CV-7242-01,301,0.2875,60,0.3138,0,0:LIVING,Female,Not Hispanic Or Latino,White,HNSC_HPV-,Head and Neck Squamous Cell Carcinoma,Lost,,Not Called,Not Called,Not Called,G2,35.99960548
+TCGA-CV-7245,TCGA-CV-7245-01,464,0.5777,62,0.2978,0.07,0:LIVING,Male,Hispanic Or Latino,White,HNSC_HPV-,Head and Neck Squamous Cell Carcinoma,Lost,Not Called,Not Called,,Gained,G2,26.20245258
+TCGA-CV-7261,TCGA-CV-7261-01,173,0.4758,57,0.3067,0.01,0:LIVING,Male,Not Hispanic Or Latino,White,HNSC_HPV-,Head and Neck Squamous Cell Carcinoma,Not Called,Not Called,,Gained,Gained,G2,49.70904428
+TCGA-CV-A461,TCGA-CV-A461-01,530,0.2506,65,0.3247,0.02,1:DECEASED,Male,Not Hispanic Or Latino,White,HNSC_HPV-,Head and Neck Squamous Cell Carcinoma,Not Called,Not Called,Not Called,Not Called,Not Called,G2,67.85679061
+TCGA-CV-A463,TCGA-CV-A463-01,187,0.1438,82,0.3141,0.09,1:DECEASED,Female,Hispanic Or Latino,White,HNSC_HPV-,Head and Neck Squamous Cell Carcinoma,Not Called,Not Called,Not Called,Not Called,Not Called,G2,0.756156097
+TCGA-CV-A464,TCGA-CV-A464-01,19,0.1583,48,0.3297,0,0:LIVING,Male,Not Hispanic Or Latino,White,HNSC_HPV-,Head and Neck Squamous Cell Carcinoma,Not Called,Not Called,Not Called,Not Called,Not Called,G2,56.61307821
+TCGA-CV-A465,TCGA-CV-A465-01,33,0.3791,24,0.3249,0,1:DECEASED,Male,Hispanic Or Latino,White,HNSC_HPV-,Head and Neck Squamous Cell Carcinoma,Lost,Lost,Not Called,Not Called,Not Called,G1,7.068415689
+TCGA-CV-A6JD,TCGA-CV-A6JD-01,82,0.1139,82,0.3347,0,1:DECEASED,Female,Not Hispanic Or Latino,White,HNSC_HPV-,Head and Neck Squamous Cell Carcinoma,Lost,Not Called,,Not Called,Not Called,G3,5.983496071
+TCGA-CV-A6JE,TCGA-CV-A6JE-01,120,0.3677,78,0.3238,0.03,0:LIVING,Male,Not Hispanic Or Latino,White,HNSC_HPV-,Head and Neck Squamous Cell Carcinoma,Not Called,Not Called,Not Called,Lost,Not Called,G2,35.34207844
+TCGA-CV-A6JM,TCGA-CV-A6JM-01,225,0.3046,85,0.3467,0.31,1:DECEASED,Male,Not Hispanic Or Latino,White,HNSC_HPV-,Head and Neck Squamous Cell Carcinoma,,Lost,Lost,Lost,Gained,G2,6.378012296
+TCGA-CV-A6JN,TCGA-CV-A6JN-01,69,0.1717,53,0.3165,0.04,0:LIVING,Male,Not Hispanic Or Latino,White,HNSC_HPV-,Head and Neck Squamous Cell Carcinoma,Not Called,Not Called,Not Called,,Not Called,G1,29.78597495
+TCGA-CV-A6JO,TCGA-CV-A6JO-01,68,0.0657,69,0.3124,0,1:DECEASED,Male,Not Hispanic Or Latino,White,HNSC_HPV-,Head and Neck Squamous Cell Carcinoma,Not Called,Not Called,Not Called,Not Called,Not Called,G2,6.476641352
+TCGA-CV-A6JT,TCGA-CV-A6JT-01,46,0.1937,65,0.344,0,0:LIVING,Male,Not Hispanic Or Latino,White,HNSC_HPV-,Head and Neck Squamous Cell Carcinoma,,Not Called,Not Called,Not Called,Not Called,G2,28.01065194
+TCGA-CV-A6JU,TCGA-CV-A6JU-01,119,0.2905,61,0.331,0,0:LIVING,Female,Not Hispanic Or Latino,White,HNSC_HPV-,Head and Neck Squamous Cell Carcinoma,Gained,Not Called,Lost,,Not Called,G2,3.616398724
+TCGA-CV-A6JY,TCGA-CV-A6JY-01,84,0.0473,69,0.3141,0.02,0:LIVING,Male,Not Hispanic Or Latino,White,HNSC_HPV-,Head and Neck Squamous Cell Carcinoma,,Not Called,Not Called,Not Called,Not Called,G1,21.23812342
+TCGA-CV-A6JZ,TCGA-CV-A6JZ-01,96,0.1668,68,0.3195,0,0:LIVING,Male,Not Hispanic Or Latino,White,HNSC_HPV-,Head and Neck Squamous Cell Carcinoma,Not Called,Not Called,,Gained,Not Called,G2,23.47371536
+TCGA-CV-A6K0,TCGA-CV-A6K0-01,14,0.0033,58,0.3219,0,0:LIVING,Male,Not Hispanic Or Latino,White,HNSC_HPV-,Head and Neck Squamous Cell Carcinoma,Not Called,Not Called,Not Called,Not Called,Not Called,G3,19.92306934
+TCGA-CV-A6K2,TCGA-CV-A6K2-01,587,0.0051,79,0.3151,0.01,1:DECEASED,Male,Not Hispanic Or Latino,White,HNSC_HPV-,Head and Neck Squamous Cell Carcinoma,Not Called,Not Called,Not Called,Not Called,Not Called,G1,10.4218036
+TCGA-IQ-7632,TCGA-IQ-7632-01,57,0.0083,68,0.3092,0,0:LIVING,Female,Not Hispanic Or Latino,White,HNSC_HPV-,Head and Neck Squamous Cell Carcinoma,Lost,Lost,Not Called,Not Called,Not Called,G1,14.49847125
+TCGA-IQ-A61E,TCGA-IQ-A61E-01,160,0.1543,55,0.3143,0.15,0:LIVING,Female,Not Hispanic Or Latino,White,HNSC_HPV-,Head and Neck Squamous Cell Carcinoma,Not Called,Not Called,Not Called,Not Called,Lost,G2,37.70917579
+TCGA-IQ-A61H,TCGA-IQ-A61H-01,128,0.2847,76,0.3068,0.07,0:LIVING,Male,Hispanic Or Latino,White,HNSC_HPV-,Head and Neck Squamous Cell Carcinoma,,Lost,Not Called,Lost,Not Called,G2,37.41328862
+TCGA-IQ-A61I,TCGA-IQ-A61I-01,114,0.2101,63,0.3151,0.01,1:DECEASED,Male,Not Hispanic Or Latino,Black or African American,HNSC_HPV+,Head and Neck Squamous Cell Carcinoma,Not Called,Not Called,Not Called,Not Called,Not Called,G3,0.065752704
+TCGA-IQ-A61K,TCGA-IQ-A61K-01,60,0.1413,70,0.3099,0.35,1:DECEASED,Female,Not Hispanic Or Latino,White,,Head and Neck Squamous Cell Carcinoma,Lost,Lost,Gained,Gained,Not Called,G2,5.293092678
+TCGA-UF-A71B,TCGA-UF-A71B-01,126,0.3212,50,0.3248,0,0:LIVING,Male,,White,HNSC_HPV-,Head and Neck Squamous Cell Carcinoma,Not Called,Lost,Not Called,Lost,Gained,G2,49.51178617
+TCGA-UF-A71D,TCGA-UF-A71D-01,386,0.3085,54,0.3105,0.03,0:LIVING,Female,,White,HNSC_HPV-,Head and Neck Squamous Cell Carcinoma,,Not Called,Lost,Gained,Not Called,G2,48.03235033
+TCGA-UF-A71E,TCGA-UF-A71E-01,134,0.5862,63,0.3356,0.25,1:DECEASED,Male,,White,HNSC_HPV-,"Head and Neck Squamous Cell Carcinoma, Basaloid Type",Lost,Not Called,Lost,Lost,Not Called,G3,49.44603347
+TCGA-UF-A7J9,TCGA-UF-A7J9-01,224,0.3349,75,0.3211,0.01,0:LIVING,Male,,White,HNSC_HPV-,Head and Neck Squamous Cell Carcinoma,Not Called,,Lost,Lost,Gained,G2,44.64608607
+TCGA-UF-A7JC,TCGA-UF-A7JC-01,53,0.2157,42,0.3119,0.22,1:DECEASED,Male,,White,HNSC_HPV-,Head and Neck Squamous Cell Carcinoma,Not Called,,Not Called,,Gained,G1,17.95048821
+TCGA-UF-A7JD,TCGA-UF-A7JD-01,99,0.3036,71,0.3203,0.08,1:DECEASED,Male,,,HNSC_HPV-,Head and Neck Squamous Cell Carcinoma,Lost,Not Called,Not Called,,,G3,24.29562416
+TCGA-UF-A7JH,TCGA-UF-A7JH-01,65,0.5358,59,0.3228,0.48,0:LIVING,Male,,Black or African American,HNSC_HPV-,Head and Neck Squamous Cell Carcinoma,Not Called,Not Called,Lost,Lost,Gained,G1,29.45721143
+TCGA-UF-A7JO,TCGA-UF-A7JO-01,154,0.0568,79,0.3186,0.01,1:DECEASED,Female,,White,HNSC_HPV-,Head and Neck Squamous Cell Carcinoma,Not Called,Not Called,Not Called,Not Called,Not Called,G2,20.74497814
+TCGA-UF-A7JS,TCGA-UF-A7JS-01,58,0.3547,59,0.3208,0.01,1:DECEASED,Male,,White,HNSC_HPV-,Head and Neck Squamous Cell Carcinoma,Not Called,Not Called,Not Called,Lost,Not Called,G2,22.35591939
+TCGA-UF-A7JT,TCGA-UF-A7JT-01,173,0.1049,72,0.3185,0,1:DECEASED,Female,,White,HNSC_HPV-,Head and Neck Squamous Cell Carcinoma,Not Called,Not Called,Not Called,Not Called,Not Called,G3,32.64621758
